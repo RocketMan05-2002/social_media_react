@@ -130,3 +130,206 @@ export const shareTags =[
         title:"Feelings"
     },
 ]
+
+export const posts = [
+    {
+      id: 1,
+      username: "Abhinay Shambharkar",
+      profileImg: "/assets/person/1.jpeg",
+      postDate: "5 mins ago",
+      text: "Hey this is me after getting placed into Google",
+      postImg: "/assets/post/1.png",
+      likeCount: 32,
+      commentCount: 9
+    },
+    {
+      id: 2,
+      username: "Sneha Ann",
+      profileImg: "/assets/person/2.jpeg",
+      postDate: "10 mins ago",
+      text: "What a beautiful day to code!",
+      postImg: "/assets/post/2.webp",
+      likeCount: 45,
+      commentCount: 12
+    },
+    {
+      id: 3,
+      username: "Haritha",
+      profileImg: "/assets/person/3.jpeg",
+      postDate: "1 hour ago",
+      text: "Just finished my workout session!",
+      postImg: "/assets/post/3.jpg",
+      likeCount: 89,
+      commentCount: 23
+    },
+    {
+      id: 4,
+      username: "Rahul Dev",
+      profileImg: "/assets/person/4.jpeg",
+      postDate: "30 mins ago",
+      text: "Working on a new React project!",
+      postImg: "/assets/post/4.jpeg",
+      likeCount: 61,
+      commentCount: 14
+    },
+    {
+      id: 5,
+      username: "Priya Raj",
+      profileImg: "/assets/person/5.jpeg",
+      postDate: "2 hours ago",
+      text: "Frontend devs rise up 💻✨",
+      postImg: "/assets/post/5.jpeg",
+      likeCount: 78,
+      commentCount: 19
+    },
+    {
+      id: 6,
+      username: "Karthik M",
+      profileImg: "/assets/person/6.jpg",
+      postDate: "15 mins ago",
+      text: "Figma to React - loving the process!",
+      postImg: "/assets/post/6.avif",
+      likeCount: 50,
+      commentCount: 11
+    },
+    {
+      id: 7,
+      username: "Deepika Sharma",
+      profileImg: "/assets/person/7.avif",
+      postDate: "Yesterday",
+      text: "Calisthenics and coding, both feel like art.",
+      postImg: "/assets/post/7.png",
+      likeCount: 90,
+      commentCount: 25
+    },
+    {
+      id: 8,
+      username: "Rohit V",
+      profileImg: "/assets/person/8.jpg",
+      postDate: "20 mins ago",
+      text: "Deploying my app today 🚀",
+      postImg: "/assets/post/8.png",
+      likeCount: 38,
+      commentCount: 6
+    },
+    {
+      id: 9,
+      username: "Shalini Nair",
+      profileImg: "/assets/person/9.jpg",
+      postDate: "3 hours ago",
+      text: "Love the Tailwind vibes 🔥",
+      postImg: "/assets/post/9.png",
+      likeCount: 70,
+      commentCount: 15
+    },
+    {
+      id: 10,
+      username: "Naveen Raj",
+      profileImg: "/assets/person/10.jpg",
+      postDate: "Just now",
+      text: "Debugged a nasty issue today 🐞",
+      postImg: "/assets/post/10.png",
+      likeCount: 28,
+      commentCount: 4
+    },
+    {
+      id: 11,
+      username: "Aarushi Patel",
+      profileImg: "/assets/person/1.jpeg",
+      postDate: "Yesterday",
+      text: "Jesus is King 🙌",
+      postImg: "/assets/post/1.png",
+      likeCount: 84,
+      commentCount: 29
+    },
+    {
+      id: 12,
+      username: "Yash Khurana",
+      profileImg: "/assets/person/2.jpeg",
+      postDate: "4 hours ago",
+      text: "Learning Redux is tough but worth it!",
+      postImg: "/assets/post/2.webp",
+      likeCount: 55,
+      commentCount: 17
+    },
+    {
+      id: 13,
+      username: "Meena K",
+      profileImg: "/assets/person/3.jpeg",
+      postDate: "5 hours ago",
+      text: "React 19 is smooth!",
+      postImg: "/assets/post/3.jpg",
+      likeCount: 66,
+      commentCount: 13
+    },
+    {
+      id: 14,
+      username: "Devraj Singh",
+      profileImg: "/assets/person/4.jpeg",
+      postDate: "10 mins ago",
+      text: "Design → Develop → Deploy → Repeat 🔁",
+      postImg: "/assets/post/4.jpeg",
+      likeCount: 77,
+      commentCount: 21
+    },
+    {
+      id: 15,
+      username: "Nisha T",
+      profileImg: "/assets/person/5.jpeg",
+      postDate: "7 mins ago",
+      text: "VSCode is my happy place.",
+      postImg: "/assets/post/5.jpeg",
+      likeCount: 41,
+      commentCount: 8
+    },
+    {
+      id: 16,
+      username: "Farhan K",
+      profileImg: "/assets/person/6.jpg",
+      postDate: "Yesterday",
+      text: "Exploring Next.js and it's 🔥",
+      postImg: "/assets/post/6.avif",
+      likeCount: 88,
+      commentCount: 18
+    },
+    {
+      id: 17,
+      username: "Ankita Das",
+      profileImg: "/assets/person/7.avif",
+      postDate: "1 hour ago",
+      text: "Jira tasks done ✅ Time for a break",
+      postImg: "/assets/post/7.png",
+      likeCount: 54,
+      commentCount: 10
+    },
+    {
+      id: 18,
+      username: "Vinay A",
+      profileImg: "/assets/person/8.jpg",
+      postDate: "20 mins ago",
+      text: "Just fixed a production bug 😅",
+      postImg: "/assets/post/8.png",
+      likeCount: 73,
+      commentCount: 16
+    },
+    {
+      id: 19,
+      username: "Sowmya R",
+      profileImg: "/assets/person/9.jpg",
+      postDate: "2 hours ago",
+      text: "Started learning TypeScript today!",
+      postImg: "/assets/post/9.png",
+      likeCount: 67,
+      commentCount: 22
+    },
+    {
+      id: 20,
+      username: "Vikram J",
+      profileImg: "/assets/person/10.jpg",
+      postDate: "3 mins ago",
+      text: "Dark mode supremacy 🌚",
+      postImg: "/assets/post/10.png",
+      likeCount: 59,
+      commentCount: 13
+    }
+  ];
