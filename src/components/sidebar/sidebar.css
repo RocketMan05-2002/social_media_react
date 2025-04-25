@@ -1,6 +1,7 @@
 .sidebar{
     flex: 3;
     height: calc(100vh - 50px);
+    /* height: fit-content; */
     /* background-color: green; */
     overflow-y: scroll;
 }
