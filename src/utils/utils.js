@@ -60,53 +60,107 @@ export const sidebarLinks = [
 ];
 
 export const friends = [
-    {
-        id:2,
-        profileSrc: "/assets/person/2.jpeg",
-        name:"Aiihd" 
-    },
-    {
-        id:3,
-        profileSrc: "/assets/person/3.jpeg",
-        name:"Bakjdbadnj aD  BKJDB" 
-    },
-    {
-        id:4,
-        profileSrc: "/assets/person/4.jpeg",
-        name:"CSDKASK BD" 
-    },
-    {
-        id:5,
-        profileSrc: "/assets/person/5.jpeg",
-        name:"D KDBBKK" 
-    },
-    {
-        id:6,
-        profileSrc: "/assets/person/6.jpg",
-        name:"E SAKBAB" 
-    },
-    {
-        id:7,
-        profileSrc: "/assets/person/7.avif",
-        name:"FBKB XABK BB" 
-    },
-    {
-        id:8,
-        profileSrc: "/assets/person/8.jpg",
-        name:"GKX AK JBJ" 
-    },
-    {
-        id:9,
-        profileSrc: "/assets/person/9.jpg",
-        name:"HHXJHA MA" 
-    },
-    {
-        id:10,
-        profileSrc: "/assets/person/10.jpg",
-        name:"IKABJKBKXA B AKJ " 
-    },
-    
-]
+  {
+    id: 2,
+    profileSrc: "https://randomuser.me/api/portraits/women/44.jpg",
+    name: "Alicia Gomez"
+  },
+  {
+    id: 3,
+    profileSrc: "https://randomuser.me/api/portraits/men/75.jpg",
+    name: "Brandon Lee"
+  },
+  {
+    id: 4,
+    profileSrc: "https://randomuser.me/api/portraits/women/68.jpg",
+    name: "Charlotte Kim"
+  },
+  {
+    id: 5,
+    profileSrc: "https://randomuser.me/api/portraits/men/22.jpg",
+    name: "Daniel Carter"
+  },
+  {
+    id: 6,
+    profileSrc: "https://randomuser.me/api/portraits/women/15.jpg",
+    name: "Ella Thompson"
+  },
+  {
+    id: 7,
+    profileSrc: "https://randomuser.me/api/portraits/men/30.jpg",
+    name: "Felix Brown"
+  },
+  {
+    id: 8,
+    profileSrc: "https://randomuser.me/api/portraits/women/23.jpg",
+    name: "Grace Park"
+  },
+  {
+    id: 9,
+    profileSrc: "https://randomuser.me/api/portraits/men/46.jpg",
+    name: "Henry Adams"
+  },
+  {
+    id: 10,
+    profileSrc: "https://randomuser.me/api/portraits/women/49.jpg",
+    name: "Isabelle Rivera"
+  },
+  {
+    id: 11,
+    profileSrc: "https://randomuser.me/api/portraits/men/17.jpg",
+    name: "Jack Mason"
+  },
+  {
+    id: 12,
+    profileSrc: "https://randomuser.me/api/portraits/women/36.jpg",
+    name: "Katherine Bell"
+  },
+  {
+    id: 13,
+    profileSrc: "https://randomuser.me/api/portraits/men/28.jpg",
+    name: "Liam Watson"
+  },
+  {
+    id: 14,
+    profileSrc: "https://randomuser.me/api/portraits/women/61.jpg",
+    name: "Mia Sanchez"
+  },
+  {
+    id: 15,
+    profileSrc: "https://randomuser.me/api/portraits/men/62.jpg",
+    name: "Noah Evans"
+  },
+  {
+    id: 16,
+    profileSrc: "https://randomuser.me/api/portraits/women/77.jpg",
+    name: "Olivia Brooks"
+  },
+  {
+    id: 17,
+    profileSrc: "https://randomuser.me/api/portraits/men/13.jpg",
+    name: "Peter Johnson"
+  },
+  {
+    id: 18,
+    profileSrc: "https://randomuser.me/api/portraits/women/5.jpg",
+    name: "Quinn Davis"
+  },
+  {
+    id: 19,
+    profileSrc: "https://randomuser.me/api/portraits/men/80.jpg",
+    name: "Ryan Cooper"
+  },
+  {
+    id: 20,
+    profileSrc: "https://randomuser.me/api/portraits/women/33.jpg",
+    name: "Sophia Martinez"
+  },
+  {
+    id: 21,
+    profileSrc: "https://randomuser.me/api/portraits/men/51.jpg",
+    name: "Thomas Nguyen"
+  }
+];
 
 export const shareTags =[
     {
